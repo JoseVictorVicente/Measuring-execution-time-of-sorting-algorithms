@@ -1,0 +1,10 @@
+void testeBubble(double tempos[], int metodo);
+void testeBucket(double tempos[], int metodo);
+void testeCount(double tempos[], int metodo);
+void testeRadix(double tempos[], int metodo);
+void testeHeap(double tempos[], int metodo);
+void testeInsertion(double tempos[], int metodo);
+void testeMerge(double tempos[], int metodo);
+void testeQuick(double tempos[], int metodo);
+void testeSelection(double tempos[], int metodo);
+void testeShell(double tempos[], int metodo);
